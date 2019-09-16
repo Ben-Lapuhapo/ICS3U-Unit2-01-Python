@@ -10,8 +10,8 @@ import math
 
 def main():
     print("The circle's Dimensions is R=15mm")
-    print("The circle's  Circumference is {}".format(math.pi*15*2))
-    print("The circle's  Area is {}".format(2*math.pi*15))
+    print("The circle's  Circumference is {}mm".format(math.pi*15*2))
+    print("The circle's  Area is {}mm^2".format(2*math.pi*15))
 
 
 
